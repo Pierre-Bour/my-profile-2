@@ -1,0 +1,51 @@
+body {
+	background: rgb(180, 180, 180); 
+	color : rgb(200, 120, 70);
+	font-family: Arial;
+	font-size: 18px;
+}
+
+h1 {
+	color: red;
+	font-family: Do Hyeon;
+	font-size: 30px; 
+}
+
+h2 {
+	color: rgb(0, 100, 170);
+	font-family: Montserrat;
+	font-size: 24px;
+	font-weight: lighter;
+}
+
+.container {
+  width: 800px;
+  margin: 40px auto;
+}
+
+.card-white {
+  background-color: white;
+  padding: 25px;
+  box-shadow: 0px 10px 30px rgba(0,0,0,0.1);
+  border-radius: 5px;
+  margin: 40px 0px;
+}
+
+.img-circle {
+  border-radius: 200%;
+  size: 50px;
+  margin: 10px auto;
+  padding: 55px;
+}
+
+.list-inline i:hover {
+  font-size: 100px;
+  color: black;
+}
+
+.introduction p {
+  margin-bottom: 40px;
+  color: black;
+  font-size: 20px
+
+}
